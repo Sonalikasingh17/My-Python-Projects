@@ -7,7 +7,6 @@ We all have played snake, water gun game in our childhood. If you haven’t, goo
 rules of this game and write a python program capable of playing this game with the
 user.
 
-
 ### Project 2
 
 #### THE PERFECT GUESS
