@@ -54,7 +54,7 @@ else:
 
     elif(computer == -1 and you == 1):
         print("Oops!, You lose!")
-
+ 
     elif(computer == -1 and you == 0):
         print("Hurray!, You win!")
 
