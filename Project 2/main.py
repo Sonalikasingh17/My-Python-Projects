@@ -6,7 +6,7 @@ number of guesses the player used to arrive at the number.'''
  
 import random 
 n = random.randint(15, 98)
-
+ 
 a = -1
 guesses = 0
 while (a != n):
