@@ -4,7 +4,7 @@ Similarly, if the user’s guess is too low, the program prints “higher number
 When the user guesses the correct number, the program displays the
 number of guesses the player used to arrive at the number.'''
   
-import random 
+import random
 n = random.randint(15, 98)
   
 a = -1
