@@ -8,7 +8,7 @@ rules of this game and write a python program capable of playing this game with 
 user.
 
 ### Project 2
-
+ 
 #### THE PERFECT GUESS
 
 We are going to write a program that generates a random number and asks the user to
