@@ -1,6 +1,6 @@
 # My-Python-Projects
 
-### Project 1
+### Project 1 
 
 #### SNAKE, WATER, GUN GAME  
 We all have played snake, water gun game in our childhood. If you haven’t, google the
