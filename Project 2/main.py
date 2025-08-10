@@ -5,7 +5,7 @@ When the user guesses the correct number, the program displays the
 number of guesses the player used to arrive at the number.'''
   
 import random
-n = random.randint(15, 98)
+n = random.randint(15, 98) 
 
 a = -1
 guesses = 0
@@ -85,6 +85,7 @@ This code will allow the user to play a simple number guessing game, with the pr
     
 
     
+
 
 
 
