@@ -5,7 +5,7 @@ When the user guesses the correct number, the program displays the
 number of guesses the player used to arrive at the number.'''
    
 import random
-n = random.randint(15, 98)  
+n = random.randint(15, 98) 
 
 a = -1  
 guesses = 0
@@ -19,14 +19,14 @@ while (a != n):
         print("Guess Higher number please")
 
 
-print(f"You have guessed the number {n} correctly in {guesses} attempt")
+print(f"You have guessed the number {n} correctly in {guesses} attempt") 
 
 
 # Chatgpt Suggestions
 '''
 import random
 
-def guess_the_number():
+def guess_the_number(): 
     # Generate a random number between 1 and 100
     target_number = random.randint(1, 100)
     guess = None
@@ -54,7 +54,7 @@ def guess_the_number():
             print("Invalid input. Please enter a valid number.")
 
 def prompt():
-    return input("Enter your guess: ")
+    return input("Enter your guess: ") 
 
 # Run the game
 guess_the_number()
